@@ -1,0 +1,11 @@
+file.db
+apple_health_export/
+alternatives/
+tests/
+__pycache__/
+.env
+dist/
+.DS_Store
+examples/
+*.json
+*.sql
